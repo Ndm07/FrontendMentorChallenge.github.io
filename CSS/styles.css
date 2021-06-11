@@ -11,7 +11,7 @@ span {
 
 .box {
   margin: 0 auto;
-  padding: 10% 25%;
+  padding: 10% 20%;
 }
 
 .col-lg-6 {
@@ -21,7 +21,7 @@ span {
 .left-side {
   background-color: hsl(244, 38%, 16%);
   height: 100%;
-  padding: 7.35% 7.35% 3.25%;
+  padding: 50px 75px;
 }
 
 .heading {
@@ -29,7 +29,7 @@ span {
   font-weight: 700;
   font-size: 2rem;
   margin: 0;
-  padding-bottom: 5%;
+  padding-bottom: 10%;
 }
 
 .sub-heading {
@@ -37,7 +37,7 @@ span {
   font-family: 'Lexend-Deca', sans-serif;
   font-weight: 400;
   font-size: 1rem;
-  padding-bottom: 5%;
+  padding-bottom: 10%;
 }
 
 .stat-heading {
@@ -51,7 +51,7 @@ span {
   font-size: 0.8rem;
 }
 
-@media only screen and (max-width:765px) {
+@media only screen and (max-width:1192px) {
   body {
     text-align: center;
   }
